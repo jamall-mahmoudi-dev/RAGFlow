@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+qdrant-client
+redis
+python-dotenv
+httpx
+pydantic
